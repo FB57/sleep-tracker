@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sleep_tracker_fragment" type="id" />
+    <item name="action_sleepDetailFragment_to_sleep_tracker_fragment" type="id" />
+    <item name="sleep_detail_fragment" type="id" />
+    <item name="action_sleepQualityFragment_to_sleepTrackerFragment" type="id" />
+    <item name="action_sleepTrackerFragment_to_sleepQualityFragment" type="id" />
+    <item name="sleep_quality_fragment" type="id" />
+    <item name="navigation" type="id" />
+    <item name="action_sleep_tracker_fragment_to_sleepDetailFragment" type="id" />
+    <item name="sleep_length" type="id" />
+</resources>
